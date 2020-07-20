@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Genn Sev personal page."
+#description = "Rom 9:21"
 title404 = "Nothing to see here, move on."
 
 [params.assets]
@@ -101,8 +101,8 @@ category = "categories"
 series = "series"
 tag = "tags"
 
-#[permalinks]
-#page = "/:slug/"
+[permalinks]
+page = "/:slug/"
 
 #[[menu.main]]
 #name = "Repo"
