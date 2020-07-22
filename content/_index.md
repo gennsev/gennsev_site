@@ -14,7 +14,7 @@ You must be new here.
 
 My name is Gennaro, I'm a Data Scientist :bar_chart:, Computer Engineer :computer:, and holder of a Ph.D. :mortar_board: from Federal University of Rio Grande do Sul (UFRGS) with co-direction with Laboratoire de Informatique Robotique et Microéletronique de Montpellier (LIRMM :fr:).
 
-My main work subjects are are:
+My main work subjects are:
 * Data Science and Machine Learning
 * Aerospace Engineering
 * Innovative Software Development
