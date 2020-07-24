@@ -1,0 +1,3 @@
+[submodule "themes/minigenn"]
+	path = themes/minigenn
+	url = https://github.com/gsrodrigues/minigenn

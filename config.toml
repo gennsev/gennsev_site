@@ -3,7 +3,7 @@ title = "GennSev"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
-theme = "minimogen"
+theme = "minigenn"
 
 disqusShortname = ""
 googleAnalytics = ""
