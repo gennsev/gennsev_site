@@ -10,9 +10,9 @@ tags:
 # Multiprocessing vs. Multithreading in Python (Part 1)
 
 Python is often regarded as an almost obscene programming language. A libertarian place where everything is permitted and our wildest dreams come true. Forget about labels and definitions, and, above all, brackets. It is a language that welcomes everyone, from the most experienced programmer (that weird guy that still uses Fortran for some reason you don’t really want to know about) to the egotistic millennial newbie.
-Well, that is, except if you are working with multiprocessing/multithreading.
+Well, that is, except if you are working with multiprocessing or multithreading.
 
-The challenges of working with Python multiprocessing begins with the fact that even the internet does not understand very well how it works. Indeed, I’ve found multiple wrong statements on stackoverflow responses (some with a high count of up votes) and even very serious-looking blogs. Therefore, differently from other cases, where *programming* may also be called *stackoverflowing*, you better know at least the basics of what you are doing before starting to work with multiprocessing in Python.
+The challenges of working with parallelism and concurrency in Python begins with the fact that even the internet does not understand very well how it works. Indeed, I’ve found multiple wrong statements on stackoverflow responses (some with a high count of up votes) and even very serious-looking blogs. Therefore, differently from other cases, where *programming* may also be called *stackoverflowing*, you better know at least the basics of what you are doing before starting to work with multiprocessing or multithreading in Python.
 
 Or else, you might have a bad time.
 
