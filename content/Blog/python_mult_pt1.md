@@ -1,7 +1,9 @@
 ---
 title: "Multithreading vs. Multiprocessing in Python (Part 1)"
 date: 2020-07-27T21:46:37-03:00
-draft: true
+tags:
+  - python
+  - programming
 ---
 
 
@@ -31,7 +33,7 @@ We should also understand the difference between concurrency and parallelism.
 Multithreading implements concurrency, multiprocessing implements parallelism. Processes run on separate processing nodes.
 
 
-![Architecture](/imgs/PythonMultSeries/Multi_Diagram.png) 
+![Architecture](/imgs/PythonMultSeries/Multi_Diagram.png)
 
 *Fig. 1: Processes run in parallel. Threads execute concurrently.*
 
