@@ -1,6 +1,11 @@
 ---
 title: "Multithreading vs. Multiprocessing in Python (Part 2) - A Data Science Example"
 date: 2020-08-08T18:11:21-03:00
+tags:
+  - python
+  - programming
+  - data science
+  - NLP
 ---
 
 In the first part of this series we saw the differences between multiprocessing and multithreading in Python. Although we saw some examples there, I think it deserves some practical view on how it can be used on a real data science project.
