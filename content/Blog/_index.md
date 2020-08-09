@@ -6,4 +6,6 @@ weight: -270
 emoji: true
 ---
 
-:construction:
+Here is where I share some thoughts, lessons learned during my projects, and tutorials.
+
+**Blog posts:**
