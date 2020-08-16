@@ -21,4 +21,4 @@ My main work subjects are:
 * Approximate Computing
 * Dependable and Safety-Critical Systems.
 
-Oh, also another one of those talkative finances, investing and stock market enthusiast :chart_with_upwards_trend:.
+Oh, I'm also a finances, investing and stock market enthusiast :chart_with_upwards_trend:.

@@ -9,7 +9,7 @@ emoji: true
 
 ## TClass
 
-TClass is an attempt to develop an open-source text classifier tool and provide useful NLP models for this type of problem. It is on its very first steps, and so far I've only started experimenting with some models and state-of-the-art approaches. You can check its development on on this
+TClass is an attempt to develop an open-source text classifier tool and provide useful NLP models for this type of problem. It is on its very first steps, and so far I've only started experimenting with some models and state-of-the-art approaches. You can check its development on this
 [GitHub Repository (TClass)](https://github.com/gennsev/tclass).
 
 
