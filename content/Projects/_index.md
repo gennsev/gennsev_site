@@ -6,6 +6,10 @@ weight: -270
 emoji: true
 ---
 
+## Intro to NLP Course
+I've been developing a course on introduction to NLP.
+You can download the some of the material here: [Intro to NLP - Beta Material](https://1drv.ms/u/s!Ahg_IClK8R7Khs0kFonJl9QPsSP06g?e=37H679).
+Don't hesitate to contact me if you find it interesting :)
 
 ## TClass
 
